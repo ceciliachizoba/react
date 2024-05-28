@@ -5,7 +5,8 @@ import React from 'react';
 const users = [
   { Name: 'Ada Obi', Description: 'Software Engineer', DateOfBirth: '1960-01-01' },
   { Name: 'Ada Eze', Description: 'Web Designer', DateOfBirth: '1985-05-05' },
-  
+
+
 ];
 
 const App = () => {
